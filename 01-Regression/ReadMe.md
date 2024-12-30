@@ -1,1 +1,7 @@
-This Foldes contains a JUPYTER NOTEBOOK containing EDA and Model Training od happiness data!
+### This Foldes contains a JUPYTER NOTEBOOKs containing EDA and Model Trainings
+
+### I have worked with 2 different datasets
+
+- Experiment 1 : happiness_data.csv
+- Experiment 2 : CO2_Emissions_Canada.csv
+     
